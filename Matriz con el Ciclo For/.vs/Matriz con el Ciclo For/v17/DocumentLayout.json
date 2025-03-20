@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jerson rosales\\Desktop\\Repositorio nuevo\\Matriz con el Ciclo For\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B808733-A415-4A72-ABC2-A6CBF01B3553}|Matriz con el Ciclo For\\Matriz con el Ciclo For.vcxproj|C:\\Users\\jerson rosales\\Desktop\\Repositorio nuevo\\Matriz con el Ciclo For\\Matriz con el Ciclo For\\Matriz con el Ciclo For.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B808733-A415-4A72-ABC2-A6CBF01B3553}|Matriz con el Ciclo For\\Matriz con el Ciclo For.vcxproj|solutionrelative:Matriz con el Ciclo For\\Matriz con el Ciclo For.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Matriz con el Ciclo For.cpp",
+              "DocumentMoniker": "C:\\Users\\jerson rosales\\Desktop\\Repositorio nuevo\\Matriz con el Ciclo For\\Matriz con el Ciclo For\\Matriz con el Ciclo For.cpp",
+              "RelativeDocumentMoniker": "Matriz con el Ciclo For\\Matriz con el Ciclo For.cpp",
+              "ToolTip": "C:\\Users\\jerson rosales\\Desktop\\Repositorio nuevo\\Matriz con el Ciclo For\\Matriz con el Ciclo For\\Matriz con el Ciclo For.cpp",
+              "RelativeToolTip": "Matriz con el Ciclo For\\Matriz con el Ciclo For.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T17:44:49.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
